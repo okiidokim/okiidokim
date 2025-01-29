@@ -50,16 +50,10 @@ C → 메모리 할당/해제는 개발자의 영역
     - 가비지 컬렉션을 수행하는 타이밍
         - 일정 주기
         - 힙 메모리가 충분하지 않을 경우
-    
-    ![스크린샷 2025-01-24 오후 5.12.34.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd7f16-2c35-4552-9db0-2cc8aa49354a/eacbe07c-022d-4938-8431-8f6d37ba8d58/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-01-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.12.34.png)
-    
 
-1. 삭제 후 압축
+2. 삭제 후 압축
     - 1번에서 참조되지 않은 객체는 삭제된다.
     - 빈 공간을 한 쪽으로 몰아 추가로 순차적으로 메모리에 할당될 수 있게 한다.
-    
-    ![스크린샷 2025-01-24 오후 5.12.48.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd7f16-2c35-4552-9db0-2cc8aa49354a/5bfe205c-59d9-4172-af39-4e8f0323f1cb/0fac6faa-45e1-481a-b38f-c43030d97c4a.png)
-    
 
 ### 하지만 Automatic GC는 효율적이지 못함 왜?
 
@@ -70,15 +64,11 @@ C → 메모리 할당/해제는 개발자의 영역
 
 ## Generational GC
 
-![스크린샷 2025-01-24 오후 7.21.00.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd7f16-2c35-4552-9db0-2cc8aa49354a/5c86e844-4f36-4f24-a0e9-216d9440f546/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-01-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.21.00.png)
-
 - Permanent 영역
     - 위 그림에는 있지만 현재 Heap 영역에 있지 않아 GC의 관여를 받지 않음
     - MetaSpace라는 이름으로 변경되고 현재는 Native Method 영역에 존재
 
-### ⬇ 현재 GC 구조
-
-![스크린샷 2025-01-24 오후 7.46.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd7f16-2c35-4552-9db0-2cc8aa49354a/ef024b8e-bcfe-4730-989d-d65fb869fd27/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-01-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.46.58.png)
+### 현재 GC 구조
 
 - Young Generation
     - 새로운 객체, 생성된지 얼마 안 된 객체들이 존재 하는 영역
@@ -155,10 +145,7 @@ https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB
     - 힙을 작은 영역으로 나누고 각 영역에 대해 별도의 가비지 컬렉션을 수행하는 GC
     - 단순히 s0 ↔ s1이 아닌 효율적인 영역으로 객체 재할당
     - 기본 GC 알고리즘으로 Java9 이후부터 적용
-    - 맥북에서 사용 중인 거 확인 함 후후
-        
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6ccd7f16-2c35-4552-9db0-2cc8aa49354a/aa85938b-6879-4c5d-b8a0-934081a1027f/image.png)
-        
+    - 맥북에서 사용 중인 거 확인도 해 봄        
     - 신기한 점은 사용자가 GC 알고리즘을 선택할 수 있긴 함
     - 실행 명령어 : `java -XX:+UseG1GC -jar Application.java`
 5. Shenandoah GC → 사실 여기부턴 뭐라는 건지 모르겠음… 특히 이 놈… (냅다 차나핑 됨)
@@ -175,27 +162,14 @@ https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB
     - 빈 영역을 찾기보다 새 영역을 생성해 채우는 방식 → 하나의 영역에서 제거되고 남은 건 생성되는 새 영역에 들어감(재할당)
     - 실행 명령어  : `java -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -jar Application.java`
 
-| 이름 | 차이 |
+| **이름** | **차이** |
 | --- | --- |
-| Serial GC | - Young Generation : 단일 스레드
-- Old Generation : 단일 스레드
-- 실행 : `java -XX:+UseSerialGC -jar Application.java` |
-| Parallel GC | - Young Generation : 멀티 스레드
-- Old Generation : 단일 스레드
-- 실행 : `java -XX:+UseParallelGC -jar Application.java` |
-| Concurrent Mark-Sweep(CMS) GC | - Young Generation : 멀티 스레드
-- Old Generation : 멀티 스레드
-- 삭제됨 (현재 사용하지 않음)
-- 메모리 파편화 문제, 복잡한 과정
-- 실행 : `java -XX:+UseConcMarkSweepGC -jar Application.java` |
-| G1 GC | - Young, Old보다 영역의 개념으로 변경
-- 단순 s0 ↔ s1이 아닌 효율적인 영역으로 객체 재할당
-- 현재 디폴트 GC
-- 실행 : `java -XX:+UseG1GC -jar Application.java` |
-| Shenandoah GC | - CMS GC, G1 GC의 문제 해결
-- 실행 : `java -XX:+UseShenandoahGC -jar Application.java` |
-| Z GC | - G1과 유사한 편이지만 G1과 달리 영역의 크기가 2배수로 동적으로 운영 (3가지 타입)
-- 실행 : `java -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -jar Application.java` |
+| Serial GC | - Young Generation : 단일 스레드 <br> - Old Generation : 단일 스레드 <br> - 실행 : `java -XX:+UseSerialGC -jar Application.java` |
+| Parallel GC | - Young Generation : 멀티 스레드 <br> - Old Generation : 단일 스레드 <br>- 실행 : `java -XX:+UseParallelGC -jar Application.java` |
+| Concurrent Mark-Sweep(CMS) GC | - Young Generation : 멀티 스레드 <br> - Old Generation : 멀티 스레드 <br> - 삭제됨 (현재 사용하지 않음) <br> - 메모리 파편화 문제, 복잡한 과정 <br> - 실행 : `java -XX:+UseConcMarkSweepGC -jar Application.java` |
+| G1 GC | - Young, Old보다 영역의 개념으로 변경 <br> - 단순 s0 ↔ s1이 아닌 효율적인 영역으로 객체 재할당 <br> - 현재 디폴트 GC <br> - 실행 : `java -XX:+UseG1GC -jar Application.java` |
+| Shenandoah GC | - CMS GC, G1 GC의 문제 해결 <br> - 실행 : `java -XX:+UseShenandoahGC -jar Application.java` |
+| Z GC | - G1과 유사한 편이지만 G1과 달리 영역의 크기가 2배수로 동적으로 운영 (3가지 타입) <br> - 실행 : `java -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -jar Application.java` |
 
 ---
 
