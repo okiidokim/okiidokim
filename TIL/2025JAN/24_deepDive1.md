@@ -50,12 +50,13 @@ C → 메모리 할당/해제는 개발자의 영역
     - 가비지 컬렉션을 수행하는 타이밍
         - 일정 주기
         - 힙 메모리가 충분하지 않을 경우
-    ![Automatic GC 마킹 이미지] (TIL/2025JAN/img/24_1.png)
+    
+     ![Automatic GC 마킹 이미지](img/24_1.png)
 
 2. 삭제 후 압축
     - 1번에서 참조되지 않은 객체는 삭제된다.
     - 빈 공간을 한 쪽으로 몰아 추가로 순차적으로 메모리에 할당될 수 있게 한다.
-    ![Automatic GC 삭제 후 압축 이미지] (TIL/2025JAN/img/24_2.png)
+    ![Automatic GC 삭제 후 압축 이미지](img/24_2.png)
 
 ### 하지만 Automatic GC는 효율적이지 못함 왜?
 
@@ -65,13 +66,13 @@ C → 메모리 할당/해제는 개발자의 영역
     - 그래서 나온 게 Genenerational GC
 
 ## Generational GC
-![Generational GC 이미지] (TIL/2025JAN/img/24_3.png)
+![Generational GC 이미지](img/24_3.png)
 - Permanent 영역
     - 위 그림에는 있지만 현재 Heap 영역에 있지 않아 GC의 관여를 받지 않음
     - MetaSpace라는 이름으로 변경되고 현재는 Native Method 영역에 존재
 
 ### ⬇️ 현재 GC 구조
-![현재 GC 구조] (TIL/2025JAN/img/24_4.png)
+![현재 GC 구조](img/24_4.png)
 
 - Young Generation
     - 새로운 객체, 생성된지 얼마 안 된 객체들이 존재 하는 영역
@@ -148,8 +149,8 @@ https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB
     - 힙을 작은 영역으로 나누고 각 영역에 대해 별도의 가비지 컬렉션을 수행하는 GC
     - 단순히 s0 ↔ s1이 아닌 효율적인 영역으로 객체 재할당
     - 기본 GC 알고리즘으로 Java9 이후부터 적용
-    - 맥북에서 사용 중인 거 확인도 해 봄
-        ![G1GC 확인 이미지] (TIL/2025JAN/img/24_G1.png)        
+    - 맥북에서 사용 중인 거 확인도 해 봄 <br>
+        ![G1GC 확인 이미지](img/24_G1.png)        
     - 신기한 점은 사용자가 GC 알고리즘을 선택할 수 있긴 함
     - 실행 명령어 : `java -XX:+UseG1GC -jar Application.java`
 5. Shenandoah GC → 사실 여기부턴 뭐라는 건지 모르겠음… 특히 이 놈… (냅다 차나핑 됨)
