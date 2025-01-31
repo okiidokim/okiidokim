@@ -68,16 +68,6 @@
     - padding : 내부 여백
     - content : 실질적 내용
     
-    <aside>
-    <aside>
-    <aside>    
-    <aside>
-    
-    </aside>
-    </aside>
-    </aside>
-    </aside>
-    
 
 ### ▶️ 우리의 서버 구조
 
