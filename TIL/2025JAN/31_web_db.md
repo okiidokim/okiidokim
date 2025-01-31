@@ -89,7 +89,7 @@
     - 유지보수성, 속도, 성능 향상을 위해 구현 목표를 분리하여 구현
 - 웹의 발전
     - 노트북, 컴퓨터에 비해 성능이 낮고 화면이 작은 휴대폰의 등장과 급격히 많아지는 사용량
-
+<br><br>
 # ✏️ 웹의 이해
 
 ### ▶️ flex
@@ -170,6 +170,11 @@ https://lottiefiles.com/
     4. 유명한 사이트의 백링크
     5. sns 활용
 - 장기적 전략, 노력이 중요
+<br>
+
+--- 
+
+<br>
 
 # ✏️ DB 추가
 
@@ -190,10 +195,8 @@ https://lottiefiles.com/
     > non-key b가 PK에 종속되어 있으면서 non-key a에 종속되는걸 이행 종속이라고 하는데, 이 연결고리 끊어야한다.
     > 
 
-💡 복합키, 키가 아닌 속성을 몰라서 이해하지 못했던 거라는 걸 알게 됐다!
-
-💡 모르겠으면 나중에 DB 과제 하면서 이해하는 게 가장 빠름!
-
+💡 복합키, 키가 아닌 속성을 몰라서 이해하지 못했던 거라는 걸 알게 됐다! <br>
+💡 모르겠으면 나중에 DB 과제 하면서 이해하는 게 가장 빠름! <br>
 💡 또 모르겠으면 걍 다 쪼개기 → 4nf, 5nf까지는 실무에서 안 쓰임
 
 - 예시 재확인
@@ -250,8 +253,7 @@ https://lottiefiles.com/
 | cssom | javascript로 조작하기 위해 웹 브라우저에서 css를 객체로 파싱한 모델 | css object model <br> - bytes → characters → token → cssom 트리 (DOM 트리에 병합) → 렌더링 |
 | event | 사용자의 동작 | - 마우스 클릭, 이동, 키보드 입력 <br> - eventLister : 동작 발생을 감지하고 알림 <br> - eventhandler : 동작 발생 시 수행되는 함수 |
 | fetch | 클라이언트에서 서버에 비동기적으로 데이터를 요청하고 응답 받는 과정 | - 응답 처리 : `.then()` <br> - 오류 처리 : `.catch()` <br> - 응답을 json으로 변환 : `.json()` |
-| lottie | json 기반의 애니메이션을 제공하는 서비스 | - 작은 용량 <br> - 픽셀 아닌 벡터
-https://lottiefiles.com/ |
+| lottie | json 기반의 애니메이션을 제공하는 서비스 | - 작은 용량 <br> - 픽셀 아닌 벡터 <br> https://lottiefiles.com/ |
 | SEO | 서비스가 검색 엔진에 의해 쉽게 노출되도록 최적화하는 기술 | search engine optimization <br> 1. 키워드 분석 및 구축 <br> 2. sns 활용 <br> 3. 유명 사이트의 백링크 <br> 4. 컨텐츠 최적화, ux 향상 |
 
 
