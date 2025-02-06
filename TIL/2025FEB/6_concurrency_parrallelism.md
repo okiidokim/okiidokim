@@ -158,3 +158,7 @@
 나 이거 잘 할 수 있을까?
 
 그리고 잠 좀.. 잘 자야겠다....
+
+### 오늘의 라이즈
+<img width="422" alt="Image" src="https://github.com/user-attachments/assets/1d36b6f6-481c-4588-a016-dde0a9a18093" />
+
