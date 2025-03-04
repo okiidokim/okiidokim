@@ -46,7 +46,7 @@
 `2021.03~2025.02` 동국대학교 컴퓨터공학과 재학<br>
 `2024.12` 정보처리기사 자격증 취득
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)](https://solved.ac/scw09268)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)]
 
 <br>
 
