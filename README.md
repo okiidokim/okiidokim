@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:581cfb,100:bc1cfb&height=300&section=header&text=김도현&fontSize=80&desc=소통하는%20두더지입니다&descAlignY=75&fontColor=f3dced)
 
 # 소통하는 두더지 개발자 김도현입니다.
+
+> ### ☝️ My values
+> 1️⃣ 도전 정신 <br>
+> 2️⃣ 꼼꼼함 <br>
+> 3️⃣ 기록
+>
+
 ### [파고드는 힘]
 새로운 기술을 배우거나 공부할 때 체화를 가장 중요하게 생각합니다. 체화를 위해 두더지처럼 파고들어 이해를 기반으로 공부합니다.<br>
 더 나아가 스스로에게 끊임없이 질문하고 답을 찾아나가려고 노력합니다.
@@ -23,13 +30,6 @@
 
 `2024.10`에 프레임워크 없이 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-## ☝️ My values
-1️⃣ 도전 정신 <br>
-2️⃣ 꼼꼼함 <br>
-3️⃣ 기록
 
 <br>
 
