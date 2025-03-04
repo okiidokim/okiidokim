@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGUCapstoneDesignRealEstate&repo=Frontend)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICONICTHON&repo=2024_ICONITHON_TEAM_4_FE&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=KTB-Hackathon-Frontend&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 
 `2024.05`에 `Django`를 이용하여 독거노인을 위한 스마트케어 어플리케이션을 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GraduationProj-SmarkCare&repo=SeniorSmarkCare)](https://github.com/anuraghazra/github-readme-stats)
