@@ -20,16 +20,16 @@
 ### [개발자로서의 성장 과정]
 `React`를 좋아하는 프론트엔드 주니어 개발자입니다.<br>
 `2023.09`부터 `2025.02`까지 `React`를 이용하여 총 4번의 프로젝트를 진행하였습니다.<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGUCapstoneDesignRealEstate&repo=Frontend)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICONICTHON&repo=2024_ICONITHON_TEAM_4_FE&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=KTB-Hackathon-Frontend&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/ElegantChildren/FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGUCapstoneDesignRealEstate&repo=Frontend)](https://github.com/DGUCapstoneDesignRealEstate/Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICONICTHON&repo=2024_ICONITHON_TEAM_4_FE&cache-seconds=1)](https://github.com/ICONICTHON/2024_ICONITHON_TEAM_4_FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=KTB-Hackathon-Frontend&cache-seconds=1)](https://github.com/NiceDecision/KTB-Hackathon-Frontend)
 
 `2024.05`에 `Django`를 이용하여 독거노인을 위한 스마트케어 어플리케이션을 구현하였습니다.<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GraduationProj-SmarkCare&repo=SeniorSmarkCare)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GraduationProj-SmarkCare&repo=SeniorSmarkCare)](https://github.com/GraduationProj-SmarkCare/SeniorSmarkCare)
 
 `2024.10`에 프레임워크 없이 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/DGU-WebProject-Solution/BookEum)
 
 <br>
 
@@ -38,7 +38,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React](https://img.shields.io/badge/JavaScript-%23ffe000.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okiidokim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okiidokim)](https://github.com/okiidokim)
 
 <br>
 
@@ -46,7 +46,7 @@
 `2021.03~2025.02` 동국대학교 컴퓨터공학과 재학<br>
 `2024.12` 정보처리기사 자격증 취득
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)](https://solved.ac/{handle})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)](https://solved.ac/scw09268)
 
 <br>
 
