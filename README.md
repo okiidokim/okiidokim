@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:581cfb,100:bc1cfb&height=300&section=header&text=김도현&fontSize=80&desc=소통하는%20두더지입니다&descAlignY=75&fontColor=f3dced)
 
-# 소통하는 두더지 개발자 김도현입니다.
+# 👋 소통하는 두더지 개발자 김도현입니다.
 
 > ### ☝️ My values
 > 1️⃣ 도전 정신 <br>
