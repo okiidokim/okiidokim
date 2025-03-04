@@ -1,30 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:581cfb,100:bc1cfb&height=300&section=header&text=김도현&fontSize=80&desc=소통하는%20두더지입니다&descAlignY=75&fontColor=f3dced)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:581cfb,100:bc1cfb&height=300&section=header&text=김도현&fontSize=80&desc=소통하는%20두더지입니다&descAlignY=75&fontColor=f3dced)
 
 # 소통하는 두더지 개발자 김도현입니다.
 ### [파고드는 힘]
-배움에 있어 한 가지를 깊게 파고드는 힘은 꼭 필요합니다.<br>
-새로운 기술을 배우거나 공부할 때 체화를 가장 중요하게 생각합니다. 체화를 위해서는 두더지처럼 파고들어 이해를 기반으로 해야 합니다.<br>
-때문에 스스로에게 끊임없이 질문하고 답을 찾아나가려고 노력합니다.
+새로운 기술을 배우거나 공부할 때 체화를 가장 중요하게 생각합니다. 체화를 위해 두더지처럼 파고들어 이해를 기반으로 공부합니다.<br>
+더 나아가 스스로에게 끊임없이 질문하고 답을 찾아나가려고 노력합니다.
 
 ### [기록의 힘]
-기록하는 것을 좋아합니다. 깃허브를 자주 사용하기 전, 간단한 것부터 정리하고 싶은 힉습 내용까지 노션에 정리하였습니다.<br>
-양이 방대하거나 자주 사용하지 않아 체화가 어려운 경우, 스스로 보기 편한 방식으로 정리하였을 때 한 번 읽고 지나가는 것으로 그치지 않았기 때문에 해당 기술을 적용해야 할 때 효율적입니다.<br>
-`React`, `Django`, `aws ec2`의 사용방법을 노션에 정리하며 한 층 빠르고 명확하게 기술을 나의 것으로 만드려고 하였습니다.<br>
-또한 기록은 소통에도 도움이 됩니다.<Br>
-말로 대화한 내용을 단순히 음성으로 끝내는 것이 아닌 글로 소통의 명확성을 챙기려고 노력합니다.<br>
-이를 중요하게 생각하여 항상 팀에서 회의록 작성을 담당하였습니다.<br>
-동아리 부회장을 할 때도 회의 안건을 미리 작성하고 필요한 내용을 조사해 가 회의 시간을 크게 단축하며 의견을 조율하였습니다.
+양이 방대하거나 자주 사용하지 않아 체화가 어려운 경우,<br>
+스스로 보기 편한 방식으로 정리하였을 때 효율적으로 적용하고 복습할 수 있습니다.<br>
+또한 대화한 내용을 단순히 음성으로 끝내는 것이 아닌 글로 소통의 명확성을 챙기려고 노력합니다.<br>
 
-### [`React` 개발자로서의 성장 과정]
-`React`에 능숙한 프론트엔드 주니어 개발자입니다.<br>
-총 7번의 프로젝트를 경험해 보았으며 `2023.09`에 `React`를 처음 접하여 4번의 프로젝트를 진행하였습니다.<br>
-처음에는 소극적으로 파일 몇 개를 작성하는 수준에서 시작하였습니다.<br>
-하지만 전체 두 번째 프로젝트, `React` 첫 프로젝트부터 프론트엔드 담당임에도 api 설계, erd 설계에 참여하고 모르는 것이 있을 때 질문을 주저하지 않고 상황을 공유하였습니다.<br>
-`React` 두 번째 프로젝트부터는 환경 세팅부터 배포까지 주도적으로 진행하였습니다.<br>
-이후에는 두 학년 어린 학우들과 함께 해커톤에 나가 깃부터 `React` 환경세팅까지 알려주고, `Django`로 서버를 구현하는 학우들에게 api 명세를 작성해 미리 보내주는 등 팀을 이끈 경험도 있습니다.<br>
-또한 외부 오픈 소스를 사용하여 서비스와 연결해 보았으며,<br>
-객체지향적 코드를 작성하기 위해 컴포넌트로 분리하며 코드 스타일을 변경해 보고 styled-components와 Context api를 적용해 보며<br>
-프로젝트를 하나씩 진행할 때마다 새로운 기술을 하나 이상 적용해 보려고 하였습니다.<br>
+### [개발자로서의 성장 과정]
+`React`를 좋아하는 프론트엔드 주니어 개발자입니다.<br>
+`2023.09`부터 `2025.02`까지 `React`를 이용하여 총 4번의 프로젝트를 진행하였습니다.<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGUCapstoneDesignRealEstate&repo=Frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICONICTHON&repo=2024_ICONITHON_TEAM_4_FE&cache-seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=frontend)](https://github.com/anuraghazra/github-readme-stats)
+
+`2024.05`에 `Django`를 이용하여 독거노인을 위한 스마트케어 어플리케이션을 구현하였습니다.<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GraduationProj-SmarkCare&repo=SeniorSmarkCare)](https://github.com/anuraghazra/github-readme-stats)
+
+`2024.10`에 프레임워크 없이 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -36,8 +34,11 @@
 <br>
 
 ## 💻 skills
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React](https://img.shields.io/badge/JavaScript-%23ffe000.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okiidokim)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -45,9 +46,11 @@
 `2021.03~2025.02` 동국대학교 컴퓨터공학과 재학<br>
 `2024.12` 정보처리기사 자격증 취득
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)](https://solved.ac/{handle})
+
 <br>
 
-## 이력
+## 📈 이력
 `2021.03~2022.12` 동국대학교 컴퓨터공학과 학생회 선전국원<br>
 `2021.09` 동국대학교 배구 동아리 개설<br>
 `2021.09~2022.07` 동국대학교 배구 동아리 홍보부장<br>
@@ -58,6 +61,8 @@
 
 <br>
 
-## 💬 SNS
-<a href="https://www.instagram.com/oki._.dokim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc1cfb?style=flat-square&logo=Instagram&logoColor=white"/></a> <br>
-✉️ hamkeem1213@gmail.com
+## ✉️ Contact
+<a href="https://www.instagram.com/oki._.dokim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc1cfb?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:hamkeem1213@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
+</a>
