@@ -1,8 +1,17 @@
 ## ✏️ 과제 내용
-⬇️ 3, 4주차 커뮤니티 과제의 ERD 그려보기<br>
+### ⬇️ 3, 4주차 커뮤니티 과제의 ERD 그려보기<br>
 https://www.erdcloud.com/d/dZ8rMnXWZQavdgmD9
 
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/36911898-caa2-4e00-885d-c323ce5c2c8a" />
+
+<br><br>
+
+### ▶️ MySQL 설치하기<br>
+XAMPP 설치가 안 되길래 그냥 인터넷에서 MySQL 설치하는 방법을 따로 찾아서 설치했다.<br>
+https://velog.io/@cyseok123/MySQL-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-for-Mac<br>
+여기 링크 참고해서 연결 성공까지 도달했다.<br>
+<img width="264" alt="스크린샷 2025-03-06 오후 6 52 27" src="https://github.com/user-attachments/assets/5bb2f652-3780-4a00-938b-31adbf328b56" />
+
 
 <br>
 <br>
