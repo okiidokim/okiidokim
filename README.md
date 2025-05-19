@@ -17,17 +17,20 @@
 
 ### [개발자로서의 성장 과정]
 `React`를 좋아하는 프론트엔드 주니어 개발자입니다.<br>
-`2023.09`부터 `2025.02`까지 `React`를 이용하여 총 4번의 프로젝트를 진행하였습니다.<br>
+`2023.09`부터 `2025.02`까지 `React`를 이용하여 해커톤을 포함해 총 4번의 프로젝트를 진행하였습니다.<br>
+해커톤 이외 두 프로젝트는 각각 4개월, 9개월동안 진행하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/ElegantChildren/FrontEnd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGUCapstoneDesignRealEstate&repo=Frontend)](https://github.com/DGUCapstoneDesignRealEstate/Frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ICONICTHON&repo=2024_ICONITHON_TEAM_4_FE&cache-seconds=1)](https://github.com/ICONICTHON/2024_ICONITHON_TEAM_4_FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NiceDecision&repo=KTB-Hackathon-Frontend&cache-seconds=1)](https://github.com/NiceDecision/KTB-Hackathon-Frontend)
 
-`2024.05`에 `Django`를 이용하여 독거노인을 위한 스마트케어 어플리케이션을 구현하였습니다.<br>
+`2024.05`에 `Django`를 이용하여 3개월동안 독거노인을 위한 스마트케어 어플리케이션을 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GraduationProj-SmarkCare&repo=SeniorSmarkCare)](https://github.com/GraduationProj-SmarkCare/SeniorSmarkCare)
 
-`2024.10`에 프레임워크 없이 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
+`2024.10`에 프레임워크 없이 2개월동안 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/DGU-WebProject-Solution/BookEum)
+
+`2025.04`에 4개월동안 `Next.js`로 부트캠프 내 소통 커뮤니티를 구현하였습니다.<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=22-tenten-fe)](https://github.com/100-hours-a-week/22-tenten-fe)
 
 <br>
 
