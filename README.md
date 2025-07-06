@@ -1,4 +1,4 @@
-# 👋 소통하는 두더지 개발자 김도현입니다.
+# 👋 기록으로 체화하는 FE 개발자 김도현입니다.
 
 > ### ☝️ My values
 > 1️⃣ 도전 정신 <br>
@@ -16,7 +16,7 @@
 또한 대화한 내용을 단순히 음성으로 끝내는 것이 아닌 글로 소통의 명확성을 챙기려고 노력합니다.<br>
 
 ### [개발자로서의 성장 과정]
-`React`를 좋아하는 프론트엔드 주니어 개발자입니다.<br>
+`React`에 능하고 비동기 동작과정과 상태 관리에 관심이 많은 프론트엔드 개발자입니다.<br>
 `2023.09`부터 `2025.02`까지 `React`를 이용하여 해커톤을 포함해 총 4번의 프로젝트를 진행하였습니다.<br>
 해커톤 이외 두 프로젝트는 각각 4개월, 9개월동안 진행하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElegantChildren&repo=Frontend&cache-seconds=1)](https://github.com/ElegantChildren/FrontEnd)
@@ -35,9 +35,13 @@
 <br>
 
 ## 💻 skills
+![Javascript](https://img.shields.io/badge/JavaScript-%23ffe000.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React](https://img.shields.io/badge/JavaScript-%23ffe000.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br>
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okiidokim)](https://github.com/okiidokim)
 
@@ -59,6 +63,7 @@
 `2023.08~2024.06` 조재필 수학학원 중등부 보조강사<br>
 `2024.07~2024.08` 비상교육 학교 연계형 현장 실습 인턴<br>
 `2024.09~2024.12` 동국대학교 시스템소프트웨어 실습 조교<br>
+`2025.01~2025.08` 카카오테크 부트캠프 2기<br>
 
 <br>
 
