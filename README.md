@@ -1,14 +1,20 @@
-# 👋 기록으로 체화하는 FE 개발자 김도현입니다.
+# 👋 모두를 위한 효율을 극대화하는 전략가, 김도현입니다.
 
 > ### ☝️ My values
 > 1️⃣ 도전 정신 <br>
-> 2️⃣ 꼼꼼함 <br>
+> 2️⃣ 효율성 <br>
 > 3️⃣ 기록
 >
 
 ### [파고드는 힘]
-새로운 기술을 배우거나 공부할 때 체화를 가장 중요하게 생각합니다. 체화를 위해 두더지처럼 파고들어 이해를 기반으로 공부합니다.<br>
+새로운 기술을 배우거나 공부할 때 체화를 가장 중요하게 생각합니다. 체화를 위해 깊이 파고들어 이해를 기반으로 공부합니다.<br>
 더 나아가 스스로에게 끊임없이 질문하고 답을 찾아나가려고 노력합니다.
+
+### [효율의 극대화]
+스스로의 효율을 극대화하기 위해 계획을 중요하게 생각합니다.<br>
+모두의 효율을 극대화하기 위해 상황 공유와 공유 내용의 문서화를 중요하게 생각합니다.<br>
+때문에 문서화를 습관적으로 하며 노션 활용 능력이 탁월합니다. <br>
+회의를 하기 전에 안건과 해야 할 이야기를 확실하게 전부 정리하여 빠른 시간 내 결론이 나도록 합니다.<br>
 
 ### [기록의 힘]
 양이 방대하거나 자주 사용하지 않아 체화가 어려운 경우,<br>
@@ -29,7 +35,7 @@
 `2024.10`에 프레임워크 없이 2개월동안 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/DGU-WebProject-Solution/BookEum)
 
-`2025.04`에 4개월동안 `Next.js`로 부트캠프 내 소통 커뮤니티를 구현하였습니다.<br>
+`2025.04`에 4개월동안 `Next.js`로 부트캠프 내 소셜 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=22-tenten-fe)](https://github.com/100-hours-a-week/22-tenten-fe)
 
 <br>
@@ -68,7 +74,6 @@
 <br>
 
 ## ✉️ Contact
-<a href="https://www.instagram.com/oki._.dokim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc1cfb?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:hamkeem1213@gmail.com">
+<a href="mailto:scw09268@naver.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
 </a>
