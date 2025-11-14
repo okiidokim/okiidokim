@@ -1,6 +1,14 @@
 # 👋 근거로 과정에 몰입하고 결과로 증명하는 FE 개발자, 김도현입니다.
 
-> ### ☝️ My values
+### ✉️ Contact
+<a href="mailto:okidokim.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
+</a>
+<a href="https://velog.io/@okiidokim/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
+
+### ☝️ My values
 > 1️⃣ 도전 정신 <br>
 > 2️⃣ 효율성 <br>
 > 3️⃣ 기록
@@ -13,6 +21,8 @@
 
 개선된 수치로 결과를 증명하고 체감 가능한 사용자 경험으로 이어져야 합니다.<br>
 CLS 0.246 → 0, FCP 69% 향상, LCP 37% 개선이라는 지표로 이를 증명했습니다.
+
+<br>
 
 ### [개발자로서의 성장 과정]
 `React`에 능하고 비동기 동작과정과 상태 관리에 관심이 많은 프론트엔드 개발자입니다.<br>
@@ -28,7 +38,7 @@ CLS 0.246 → 0, FCP 69% 향상, LCP 37% 개선이라는 지표로 이를 증명
 `2024.10`에 프레임워크 없이 2개월동안 `java`로 책 교환 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DGU-WebProject-Solution&repo=BookEum)](https://github.com/DGU-WebProject-Solution/BookEum)
 
-`2025.04`에 4개월동안 `Next.js`로 부트캠프 내 소셜 커뮤니티를 구현하였습니다.<br>
+`2025.04`부터 5개월동안 `Next.js`로 부트캠프 내 소셜 커뮤니티를 구현하였습니다.<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=100-hours-a-week&repo=22-tenten-fe)](https://github.com/100-hours-a-week/22-tenten-fe)
 
 <br>
@@ -46,14 +56,13 @@ CLS 0.246 → 0, FCP 69% 향상, LCP 37% 개선이라는 지표로 이를 증명
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okiidokim)](https://github.com/okiidokim)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)
 
 <br>
 
 ## 📚 학력 및 자격증
 `2021.03~2025.02` 동국대학교 컴퓨터공학과 재학<br>
 `2024.12` 정보처리기사 자격증 취득
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=scw09268)
 
 <br>
 
@@ -66,14 +75,3 @@ CLS 0.246 → 0, FCP 69% 향상, LCP 37% 개선이라는 지표로 이를 증명
 `2024.07~2024.08` 비상교육 학교 연계형 현장 실습 인턴<br>
 `2024.09~2024.12` 동국대학교 시스템소프트웨어 실습 조교<br>
 `2025.01~2025.08` 카카오테크 부트캠프 2기 수료<br>
-
-<br>
-
-## ✉️ Contact
-<a href="mailto:scw09268@naver.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://velog.io/@okiidokim/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>
